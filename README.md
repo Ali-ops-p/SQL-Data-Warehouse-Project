@@ -105,8 +105,6 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 
 ## 🌟 About Me
 
-Hi there! I'm **Ali Abdul Nabi**. I’m a passionate Master Informatics Student at the University of Duisburg-Essen on a mission to improve my skills and make working with data enjoyable and engaging!
-
-Let's stay in touch! Feel free to connect with me on the following platforms:
+Hi there! I'm **Ali Abdul Nabi**. A passionate Master's Student in Informatics at the University of Duisburg-Essen focused on data analytics, SQL, Power BI, and Python for data analysis.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aliabdulnabii/)
